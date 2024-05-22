@@ -5,9 +5,7 @@ Enhanced the Vercel AI Chatbot Repository by integrating the Open AI Assistants 
 ### Changes Made:
 
 - Replaced existing model APIs with the OpenAI Assistants API.
-- Added support for conversation threads and file uploads.
-- Integrated frontend components for file uploads.
-- Implemented basic function calling using the Assistants API function calling description (bonus feature).
+- Added support for conversation threads.
 
 ### Deployment:
 
