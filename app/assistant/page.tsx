@@ -73,7 +73,7 @@ export default function Chat() {
           disabled={status !== 'awaiting_message'}
           className="fixed w-full max-w-md p-2 mb-8 border border-gray-300 rounded shadow-xl bottom-14 ax-w-md"
           value={input}
-          placeholder="What is the temperature in the living room?"
+          placeholder="How can I assist you?"
           onChange={handleInputChange}
         />
       </form>
